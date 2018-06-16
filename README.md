@@ -7,28 +7,14 @@ This project provides custom International Standard Romani keyboard layouts for 
 |----|----|----|----|
 | ç, θ | ʒ, ǎ, ě, ǐ, ǒ, ǔ | ś, ć, ź | ä, ë, ï, ö, ü |
 
-```
-ʒ, θ, ç, 
-ś, ć, ź,
-ǎ, ě, ǐ, ǒ, ǔ, 
-à, è, ì, ò, ù,
-ä, ë, ï, ö, ü 
-```
 The International Standard Romani aphabet was devised by Romani linguist Marcel Courthiade and adopted by the International Romani Union at the Fourth Romani World Congress in Warsaw, Poland in April 1990.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will help you install the keyboard layout on your computer. You should #not# need to close any programs or restart your computer in order for the new keyboard layout to be recognized.
 
-### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
+### Windows Installation
 
 A step by step series of examples that tell you how to get a development env running
 
