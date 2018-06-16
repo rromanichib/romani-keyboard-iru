@@ -3,7 +3,6 @@
 
 This project provides custom International Standard Romani keyboard layouts for Windows and MacOS systems, allowing easy access to the following special characters: 
 
-| Title | Link |
 | ----- | ---- |
 | ʒ, θ, ç |  |
 | ś, ć, ź | |
