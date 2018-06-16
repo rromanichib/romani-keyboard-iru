@@ -16,6 +16,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 - [Windows installation instructions](#windows-Installation)
 - [MacOSX installation instructions](#MacOSX-Installation)
 
+#Windows Installation
 ### Windows Installation
 
 A step by step series of examples that tell you how to get a development env running
@@ -34,7 +35,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-
+#MacOSX Installation
 ### MacOSX Installation
 
 A step by step series of examples that tell you how to get a development env running
