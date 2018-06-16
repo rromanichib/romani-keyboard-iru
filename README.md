@@ -4,6 +4,7 @@
 This project provides custom International Standard Romani keyboard layouts for Windows and MacOS systems, allowing easy access to the following special characters: 
 
 | morpho-graphs | meta-notations | fricative / affricate  | unrounded vowels |
+|----|----|----|----|
 | ç, θ | ʒ, ǎ, ě, ǐ, ǒ, ǔ | ś, ć, ź | ä, ë, ï, ö, ü |
 
 ```
