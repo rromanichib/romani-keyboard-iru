@@ -13,8 +13,8 @@ The International Standard Romani aphabet was devised by Romani linguist Marcel 
 
 These instructions will help you install the keyboard layout on your computer. You should not need to close any programs or restart your computer in order for the new keyboard layout to be recognized.
 
-- [Windows installation instructions](#windows Installation)
-- [MacOSX installation instructions](#MacOSX Installation)
+- [Windows installation instructions](#windows-Installation)
+- [MacOSX installation instructions](#MacOSX-Installation)
 
 ### Windows Installation
 
