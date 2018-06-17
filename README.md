@@ -32,13 +32,13 @@ These instructions will help you install the keyboard layout on your computer. Y
 *NOTE: It is possible that the Romani keyboard will not appear in the list of languages in the Windows Control Panel 
 "Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.*
 
-<p>
-  <img src="images/uninstall.jpg" align="right" />
-</p>
 ## Windows Un-installation
 
 To remove the Romani keyboard or custom locale, open the **Control Panel,** click on **Programs and features**, then select **"Romani - IRU Standard"** (for the keyboard layout) or **"Custome Locale rom-RO"** (for the locale).
 
+<p>
+  <img src="images/uninstall.jpg" align="center" />
+</p>
 
 ### MacOSX Installation
 
