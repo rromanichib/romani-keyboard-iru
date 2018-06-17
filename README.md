@@ -81,7 +81,7 @@ Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf)
 
 ### Typing special characters
 | Character | Windows | Mac  |
-|---:---|:-----|:-----|
+| ------ | ----- | ----- |
 | ç | ç key | ç key |
 | θ | θ key | θ key |
 | ʒ | ʒ key | ʒ key |
