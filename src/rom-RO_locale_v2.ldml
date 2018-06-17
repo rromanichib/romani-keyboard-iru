@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ldml>
+  <identity>
+    <version number="1.1">ldml version 1.1</version>
+    <generation date="2018-06-13" />
+    <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+      <msLocale:cultureInfoVersion type="3.0" />
+      <msLocale:cultureAndRegionInfoName type="rom-RO" />
+      <msLocale:geoId>200</msLocale:geoId>
+      <msLocale:countryCode>40</msLocale:countryCode>
+      <msLocale:parentName type="ro" />
+      <msLocale:languageNameAbbr type="ROM" />
+      <msLocale:languageIsoName type="threeLetters">rom</msLocale:languageIsoName>
+      <msLocale:languageIsoName type="twoLetters">rom</msLocale:languageIsoName>
+      <msLocale:nativeName type="Rromani ćhib (Savorre thema)" />
+      <msLocale:regionEnglishName type="International" />
+      <msLocale:regionNativeName type="Savorre thema" />
+      <msLocale:regionIsoName type="threeLetters">ROU</msLocale:regionIsoName>
+      <msLocale:regionIsoName type="twoLetters">RO</msLocale:regionIsoName>
+      <msLocale:regionWindowsName type="threeLetters">ROM</msLocale:regionWindowsName>
+      <msLocale:englishName type="Rromani (International)" />
+      <msLocale:sortName type="ro" />
+      <msLocale:sortGuid type="{00000024-57EE-1E5C-00B4-D0000BB1E11E}" />
+      <msLocale:codePagesName type="ro-RO" />
+      <msLocale:englishLanguage type="Rromani" />
+      <msLocale:nativeLanguage type="Rromani ćhib" />
+      <msLocale:keyboardsToInstall type="0418:00010418" />
+    </special>
+  </identity>
+  <layout>
+    <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+      <msLocale:direction type="left-to-right" />
+    </special>
+  </layout>
+  <characters>
+    <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+      <msLocale:openTypeLanguageTag>ROY </msLocale:openTypeLanguageTag>
+      <msLocale:consoleFallbackName type="ro-RO" />
+      <msLocale:fontSignature>
+        <msLocale:unicodeRanges>
+          <msLocale:range type="0" />
+          <msLocale:range type="1" />
+          <msLocale:range type="2" />
+          <msLocale:range type="3" />
+          <msLocale:range type="4" />
+          <msLocale:range type="7" />
+        </msLocale:unicodeRanges>
+        <msLocale:defaultCodePages>
+          <msLocale:ansiCodePage>
+            <msLocale:codePage type="1250" />
+          </msLocale:ansiCodePage>
+          <msLocale:ansiOemCodePage />
+          <msLocale:oemCodePage>
+            <msLocale:codePage type="852" />
+          </msLocale:oemCodePage>
+          <msLocale:macCodePage>
+            <msLocale:codePage type="10029" />
+          </msLocale:macCodePage>
+          <msLocale:ebcdicCodePage>
+            <msLocale:codePage type="20880" />
+          </msLocale:ebcdicCodePage>
+        </msLocale:defaultCodePages>
+        <msLocale:codePages>
+          <msLocale:ansiCodePage>
+            <msLocale:codePage type="1250" />
+          </msLocale:ansiCodePage>
+          <msLocale:ansiOemCodePage />
+          <msLocale:oemCodePage>
+            <msLocale:codePage type="852" />
+          </msLocale:oemCodePage>
+        </msLocale:codePages>
+      </msLocale:fontSignature>
+      <msLocale:scripts>
+        <msLocale:script type="Latn" />
+      </msLocale:scripts>
+    </special>
+  </characters>
+  <measurement>
+    <measurementSystem type="metric" />
+    <paperSize>
+      <height>297</height>
+      <width>210</width>
+    </paperSize>
+  </measurement>
+  <dates>
+    <calendars>
+      <default type="Gregorian" />
+      <calendar type="Gregorian">
+        <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+          <msLocale:calendarNativeName type="Calendar gregorian" />
+        </special>
+        <months>
+          <monthContext type="format">
+            <monthWidth type="wide">
+              <month type="1">januàro</month>
+              <month type="2">februàro</month>
+              <month type="3">màrto</month>
+              <month type="4">aprìlo</month>
+              <month type="5">màjo</month>
+              <month type="6">jùnio</month>
+              <month type="7">jùlio</month>
+              <month type="8">àugusto</month>
+              <month type="9">septèmbro</month>
+              <month type="10">oktòmbro</month>
+              <month type="11">nojèmbro</month>
+              <month type="12">decèmbro</month>
+              <month type="13" />
+            </monthWidth>
+            <monthWidth type="abbreviated">
+              <month type="1">jan.</month>
+              <month type="2">feb.</month>
+              <month type="3">mar.</month>
+              <month type="4">apr.</month>
+              <month type="5">maj.</month>
+              <month type="6">jun.</month>
+              <month type="7">jul.</month>
+              <month type="8">aug.</month>
+              <month type="9">sep.</month>
+              <month type="10">okt.</month>
+              <month type="11">nov.</month>
+              <month type="12">dec.</month>
+              <month type="13" />
+            </monthWidth>
+            <monthWidth type="genitive">
+              <month type="1">januàro</month>
+              <month type="2">februàro</month>
+              <month type="3">màrto</month>
+              <month type="4">aprìlo</month>
+              <month type="5">màjo</month>
+              <month type="6">jùnio</month>
+              <month type="7">jùlio</month>
+              <month type="8">àugusto</month>
+              <month type="9">septèmbro</month>
+              <month type="10">oktòmbro</month>
+              <month type="11">nojèmbro</month>
+              <month type="12">decèmbro</month>
+              <month type="13" />
+            </monthWidth>
+            <monthWidth type="genitiveAbbreviated">
+              <month type="1">jan.</month>
+              <month type="2">feb.</month>
+              <month type="3">mar.</month>
+              <month type="4">apr.</month>
+              <month type="5">maj.</month>
+              <month type="6">jun.</month>
+              <month type="7">jul.</month>
+              <month type="8">aug.</month>
+              <month type="9">sep.</month>
+              <month type="10">okt.</month>
+              <month type="11">nov.</month>
+              <month type="12">dec.</month>
+              <month type="13" />
+            </monthWidth>
+          </monthContext>
+        </months>
+        <days>
+          <dayContext type="format">
+            <dayWidth type="wide">
+              <day type="sun">kurke</day>
+              <day type="mon">lujne</day>
+              <day type="tue">marcine</day>
+              <day type="wed">tetradǐne</day>
+              <day type="thu">źojne</day>
+              <day type="fri">paraśtujne</day>
+              <day type="sat">savatone</day>
+            </dayWidth>
+            <dayWidth type="abbreviated">
+              <day type="sun">K</day>
+              <day type="mon">L</day>
+              <day type="tue">M</day>
+              <day type="wed">T</day>
+              <day type="thu">Ź</day>
+              <day type="fri">P</day>
+              <day type="sat">S</day>
+            </dayWidth>
+            <dayWidth type="shortest">
+              <day type="sun">K</day>
+              <day type="mon">L</day>
+              <day type="tue">M</day>
+              <day type="wed">T</day>
+              <day type="thu">Ź</day>
+              <day type="fri">P</day>
+              <day type="sat">S</day>
+            </dayWidth>
+          </dayContext>
+        </days>
+        <week>
+          <firstDay day="mon" />
+          <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+            <msLocale:weekRule type="firstDay" />
+          </special>
+        </week>
+        <am>a.m.</am>
+        <pm>p.m.</pm>
+        <eras>
+          <eraNames>
+            <era type="1">A.D.</era>
+          </eraNames>
+          <eraAbbr>
+            <era type="1">AD</era>
+          </eraAbbr>
+        </eras>
+        <dateFormats>
+          <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+            <msLocale:dateFormatLength type="long">
+              <msLocale:default type="0" />
+              <msLocale:dateFormat type="0">
+                <msLocale:pattern>d MMMM yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="1">
+                <msLocale:pattern>dddd, d MMMM yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="2">
+                <msLocale:pattern>dddd d MMMM yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="3">
+                <msLocale:pattern>d MMM yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+            </msLocale:dateFormatLength>
+            <msLocale:dateFormatLength type="short">
+              <msLocale:default type="0" />
+              <msLocale:dateFormat type="0">
+                <msLocale:pattern>dd.MM.yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="1">
+                <msLocale:pattern>d.M.yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="2">
+                <msLocale:pattern>d.MM.yy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="3">
+                <msLocale:pattern>dd-MM-yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="4">
+                <msLocale:pattern>dd-MM-yy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="5">
+                <msLocale:pattern>dd'/'MM'/'yyyy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="6">
+                <msLocale:pattern>dd'/'MM'/'yy</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="7">
+                <msLocale:pattern>yyyy-MM-dd</msLocale:pattern>
+              </msLocale:dateFormat>
+              <msLocale:dateFormat type="8">
+                <msLocale:pattern>yyyy'/'MM'/'dd</msLocale:pattern>
+              </msLocale:dateFormat>
+            </msLocale:dateFormatLength>
+            <msLocale:yearMonthFormat>
+              <msLocale:default type="0" />
+              <msLocale:yearMonth type="0">
+                <msLocale:pattern>MMMM yyyy</msLocale:pattern>
+              </msLocale:yearMonth>
+              <msLocale:yearMonth type="1">
+                <msLocale:pattern>MMM yyyy</msLocale:pattern>
+              </msLocale:yearMonth>
+              <msLocale:yearMonth type="2">
+                <msLocale:pattern>MMMM yy</msLocale:pattern>
+              </msLocale:yearMonth>
+              <msLocale:yearMonth type="3">
+                <msLocale:pattern>MMM yy</msLocale:pattern>
+              </msLocale:yearMonth>
+              <msLocale:yearMonth type="4">
+                <msLocale:pattern>MM.yyyy</msLocale:pattern>
+              </msLocale:yearMonth>
+              <msLocale:yearMonth type="5">
+                <msLocale:pattern>MM.yy</msLocale:pattern>
+              </msLocale:yearMonth>
+              <msLocale:yearMonth type="6">
+                <msLocale:pattern>MM'/'yyyy</msLocale:pattern>
+              </msLocale:yearMonth>
+              <msLocale:yearMonth type="7">
+                <msLocale:pattern>MM'/'yy</msLocale:pattern>
+              </msLocale:yearMonth>
+            </msLocale:yearMonthFormat>
+            <msLocale:lockScreenFormat>
+              <msLocale:pattern>dddd, d MMMM</msLocale:pattern>
+            </msLocale:lockScreenFormat>
+            <msLocale:monthDay>
+              <msLocale:pattern>d MMMM</msLocale:pattern>
+            </msLocale:monthDay>
+          </special>
+        </dateFormats>
+        <timeFormats>
+          <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+            <msLocale:timeFormatLength type="long">
+              <msLocale:default type="0" />
+              <msLocale:timeFormat type="0">
+                <msLocale:pattern>H:mm:ss</msLocale:pattern>
+              </msLocale:timeFormat>
+              <msLocale:timeFormat type="1">
+                <msLocale:pattern>HH:mm:ss</msLocale:pattern>
+              </msLocale:timeFormat>
+              <msLocale:timeFormat type="2">
+                <msLocale:pattern>h:mm:ss tt</msLocale:pattern>
+              </msLocale:timeFormat>
+              <msLocale:timeFormat type="3">
+                <msLocale:pattern>hh:mm:ss tt</msLocale:pattern>
+              </msLocale:timeFormat>
+            </msLocale:timeFormatLength>
+            <msLocale:timeFormatLength type="short">
+              <msLocale:default type="0" />
+              <msLocale:timeFormat type="0">
+                <msLocale:pattern>H:mm</msLocale:pattern>
+              </msLocale:timeFormat>
+              <msLocale:timeFormat type="1">
+                <msLocale:pattern>HH:mm</msLocale:pattern>
+              </msLocale:timeFormat>
+              <msLocale:timeFormat type="2">
+                <msLocale:pattern>h:mm tt</msLocale:pattern>
+              </msLocale:timeFormat>
+              <msLocale:timeFormat type="3">
+                <msLocale:pattern>hh:mm tt</msLocale:pattern>
+              </msLocale:timeFormat>
+            </msLocale:timeFormatLength>
+            <msLocale:durationFormats>
+              <msLocale:default type="0" />
+              <msLocale:durationFormat type="0">
+                <msLocale:pattern>HH:mm:ss</msLocale:pattern>
+              </msLocale:durationFormat>
+            </msLocale:durationFormats>
+          </special>
+        </timeFormats>
+      </calendar>
+    </calendars>
+  </dates>
+  <numbers>
+    <symbols>
+      <list>;</list>
+      <decimal>,</decimal>
+      <group>.</group>
+      <percentSign>%</percentSign>
+      <infinity type="positive">Biagoresqo</infinity>
+      <infinity type="negative">-Biagoresqo</infinity>
+      <nan>NaN (na si jekh gin)</nan>
+      <PlusSign />
+      <minusSign>-</minusSign>
+      <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+        <msLocale:currencyDecimalSeparator>,</msLocale:currencyDecimalSeparator>
+        <msLocale:currencyGroupSeparator>.</msLocale:currencyGroupSeparator>
+      </special>
+    </symbols>
+    <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+      <msLocale:decimalDigits>2</msLocale:decimalDigits>
+      <msLocale:negativePattern type="1" />
+      <msLocale:currencyDecimalDigits type="2" />
+      <msLocale:currencyPositivePattern type="3" />
+      <msLocale:currencyNegativePattern type="8" />
+      <msLocale:percentNegativePattern type="1" />
+      <msLocale:percentPositivePattern type="1" />
+      <msLocale:leadingZero type="yes" />
+      <msLocale:groupSizes type="0">3</msLocale:groupSizes>
+      <msLocale:currencyGroupSizes type="0">3</msLocale:currencyGroupSizes>
+      <msLocale:nativeDigits type="0">0</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="1">1</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="2">2</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="3">3</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="4">4</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="5">5</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="6">6</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="7">7</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="8">8</msLocale:nativeDigits>
+      <msLocale:nativeDigits type="9">9</msLocale:nativeDigits>
+      <msLocale:digitSubstitution type="none" />
+    </special>
+    <currencies>
+      <currency type="default">
+        <symbol>EUR</symbol>
+        <displayName>Euro</displayName>
+        <special xmlns:msLocale="http://schemas.microsoft.com/globalization/2004/08/carib/ldml">
+          <msLocale:isoCurrency>EUR</msLocale:isoCurrency>
+          <msLocale:currencyEnglishName>Euro</msLocale:currencyEnglishName>
+        </special>
+      </currency>
+    </currencies>
+  </numbers>
+</ldml>
