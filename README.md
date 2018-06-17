@@ -33,7 +33,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 "Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.*
 
 <p>
-  <img src="images/uninstall.png" align="right" />
+  <img src="images/uninstall.jpg" align="right" />
 </p>
 ## Windows Un-installation
 
