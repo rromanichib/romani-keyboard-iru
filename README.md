@@ -81,11 +81,11 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 ## Authors
 
-* **Shaun Williams** - *Concept, creation* - [Beyond Karpaty](https://www.mutiny.net)
+* **Shaun Williams** - *Concept, creation* - Blog: [Beyond Karpaty](https://www.mutiny.net)
 
 * **Ionel Cordovan** - *Design, consultation, testing*
 
-* **George Sarău** - *Consultation, testing* [Minority Division, Romanian Ministry of Education](https://www.edu.ro/echipa%20minoritati)
+* **George Sarău** - *Consultation, testing* - Website: [Minority Division, Romanian Ministry of Education](https://www.edu.ro/echipa%20minoritati)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
