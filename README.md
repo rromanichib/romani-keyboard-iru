@@ -19,7 +19,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 
 - [Windows installation instructions](#windows-installation)
 - [MacOS installation instructions](#macos-installation)
-
+- [Keyboard reference guide](#keyboard-reference-guide)
 
 # Windows Installation
 
@@ -71,6 +71,33 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
    2. Click on the **Keyboard** tab and then select "Show keyboard and emoji viewers in menu bar".
    3. Click the **Input sources** tab. If the Romani keyboard does not appear in the list on the left, click the **+** button at the lower-left and select "Romany (Latin)" from the list of languages on the left, then click **"Add".**
 
+
+
+# Keyboard Reference Guide
+
+Download the Windows keyboard reference PDF [**here**.](romani-keyboard-win.pdf) 
+
+Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf) 
+
+### Typing special characters
+| Character | Windows | Mac  |
+|----|----|----|
+| ç | ç key | ç key |
+| θ | θ key | θ key |
+| ʒ | ʒ key | ʒ key |
+| ǎ | AltGr + a | Option + a |
+| ě | AltGr + e | Option + e |
+| ǐ | AltGr + i | Option + i |
+| ǒ | AltGr + o | Option + o |
+| ǔ | AltGr + u | Option + u |
+| ś | ś key | ś key |
+| ć | ć key | ć key | 
+| ź | AltGr + z | Option + z |
+| ä | AltGr + 2, then a | Option + 2, then a |
+| ë | AltGr + 2, then e | Option + 2, then e |
+| ï | AltGr + 2, then i | Option + 2, then i |
+| ö | AltGr + 2, then o | Option + 2, then o |
+| ü | AltGr + 2, then u | Option + 2, then u |
 
 
 
