@@ -29,7 +29,7 @@ These instructions will help you install the keyboard layout on your computer. Y
   <img src="images/language_bar.png" align="right" />
 </p>
 
-2. The new keyboard layout should now appear in the list of languages in the language bar (in the taskbar) as "OL Rromani" (in Windows 7) or "ROM Rromani" (in Windows 8 or newer). If you don't see the Language bar, right-click the taskbar, point to **Toolbars,** and then click **Language bar.**
+2. The new keyboard layout should now appear in the list of languages in the language bar (in the taskbar) as "OL Rromani" (in Windows 7) or "ROM Rromani" (in Windows 8 or newer). If you don't see the Language bar, right-click the taskbar, select **Toolbars,** and then click **Language bar.**
 
 
 *NOTE: It is possible that the Romani keyboard will not appear in the list of languages in the Windows Control Panel 
@@ -115,8 +115,6 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 * **Ionel Cordovan** - *Design, consultation, testing*
 
 * **George Sarău** - *Consultation, testing* - Website: [Minority Division, Romanian Ministry of Education](https://www.edu.ro/echipa%20minoritati)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
