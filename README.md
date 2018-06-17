@@ -56,9 +56,9 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) - Windows Keyboard Layout
+* [Microsoft Locale Builder](https://www.microsoft.com/en-us/download/details.aspx?id=41158) - Windows Custom Locale
+* [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Mac OSX Keyboard Layout
 
 ## Contributing
 
@@ -68,9 +68,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * **Shaun Williams** - *Concept, creation* - [Beyond Karpaty](https://www.mutiny.net)
 
-* **Ionel Cordovan** - *Consultation, testing*
+* **Ionel Cordovan** - *Design, consultation, testing*
 
-* **George Sarău** - *Consultation, testing*
+* **George Sarău** - *Consultation, testing* [Minority Division, Romanian Ministry of Education](https://www.edu.ro/echipa%20minoritati)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
