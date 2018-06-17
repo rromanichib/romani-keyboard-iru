@@ -1,6 +1,6 @@
-<p>
 # Romani Keyboard (IRU Standard)
 *Read this in other languages: [English](README.md), [Rromani](README.rom.md), [Română](README.ro.md).*
+<p>
   <img src="images/logo.png" width="100" height="100" align="right" />
 </p>
 
