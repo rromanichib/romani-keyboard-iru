@@ -11,7 +11,7 @@ This project provides custom International Standard Romani keyboard layouts for 
 
 The International Standard Romani aphabet was devised by Romani linguist Marcel Courthiade and adopted by the International Romani Union at the Fourth Romani World Congress in Warsaw, Poland in April 1990.
 
-## Getting Started
+# Getting Started
 
 These instructions will help you install the keyboard layout on your computer. You should not need to close any programs or restart your computer in order for the new keyboard layout to be recognized.
 
@@ -19,7 +19,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 - [MacOSX installation instructions](#macosx-installation)
 
 
-## Windows Installation
+# Windows Installation
 
 1. Download the Windows installer [**here**.](Romani_IRU_Windows.zip) Open the .ZIP file and double-click on the installer named **"Install_Rromani_Keyboard_IRU.exe"**.
 
@@ -55,7 +55,7 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 
 
-## MacOSX Installation
+# MacOSX Installation
 
 A step by step series of examples that tell you how to get a development env running
 
