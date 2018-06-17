@@ -80,8 +80,9 @@ Download the Windows keyboard reference PDF [**here**.](romani-keyboard-win.pdf)
 Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf) 
 
 ### Typing special characters
+
 | Character | Windows | Mac  |
-| ------ | ----- | ----- |
+|----|----|----|
 | ç | ç key | ç key |
 | θ | θ key | θ key |
 | ʒ | ʒ key | ʒ key |
@@ -90,6 +91,7 @@ Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf)
 | ǐ | AltGr + i | Option + i |
 | ǒ | AltGr + o | Option + o |
 | ǔ | AltGr + u | Option + u |
+
 | ś | ś key | ś key |
 | ć | ć key | ć key | 
 | ź | AltGr + z | Option + z |
