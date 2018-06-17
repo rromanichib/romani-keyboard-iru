@@ -79,10 +79,6 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 * [Microsoft Locale Builder](https://www.microsoft.com/en-us/download/details.aspx?id=41158) - Windows Custom Locale
 * [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Mac OSX Keyboard Layout
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Shaun Williams** - *Concept, creation* - [Beyond Karpaty](https://www.mutiny.net)
