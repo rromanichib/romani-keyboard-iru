@@ -29,9 +29,10 @@ These instructions will help you install the keyboard layout on your computer. Y
 
 2. The new keyboard layout should now appear in the list of languages in the language bar (in the taskbar) as "OL Rromani" (in Windows 7) or "ROM Rromani" (in Windows 8 or newer). If you don't see the Language bar, right-click the taskbar, point to **Toolbars,** and then click **Language bar.**
 
+
 ```
-NOTE: It is possible that the Romani keyboard will not appear in the list of languages in the Windows Control Panel 
-"Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.
+*NOTE: It is possible that the Romani keyboard will not appear in the list of languages in the Windows Control Panel 
+"Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.*
 ```
 
 <p>
