@@ -1,5 +1,5 @@
 <p align="right">
-![Romani flag](images/logo.png)
+![Romani flag](/images/logo.png)
 </p>
 # Romani Keyboard (IRU Standard)
 *Read this in other languages: [English](README.md), [Rromani](README.rom.md), [Română](README.ro.md).*
