@@ -16,7 +16,7 @@ The International Standard Romani aphabet was devised by Romani linguist Marcel 
 These instructions will help you install the keyboard layout on your computer. You should not need to close any programs or restart your computer in order for the new keyboard layout to be recognized.
 
 - [Windows installation instructions](#windows-installation)
-- [MacOSX installation instructions](#macosx-installation)
+- [MacOS installation instructions](#macos-installation)
 
 
 # Windows Installation
@@ -34,7 +34,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 "Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.*
 
 
-### Windows Romani Custom Locale
+## Windows Romani Custom Locale
 Windows uses settings called "Locales" to determine how dates and numbers are displayed on your computer. To install a Romani language locale for Windows:
 1. Download the install package [**here**.](Romani_IRU_Windows.zip) 
 2. Open the .ZIP file and double-click on the installer named **"Install_Locale_Rromani_IRU.msi"**. 
@@ -55,24 +55,24 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 
 
-# MacOSX Installation
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+# MacOS Installation
+1. Download the MacOS installer disk image [**here**.](Romani_IRU_Mac.dmg) and double-click the .dmg file to open it.
 
-```
-Give the example
-```
+<p>
+  <img src="images/macos_input.png" align="right" />
+</p>
 
-And repeat
+2. Drag "Romani - IRU Standard.bundle" to the folder on the left. "Rromani - IRU Standard" should now appear in the list of input sources at the top right of your screen. If it does not appear, or you do not see the input sources list, follow these directions:
+   1. Choose the **Apple menu** > go to **System Preferences,** and then click the **Keyboard** preference pane.
+   2. Click on the **Keyboard** tab and then select "Show keyboard and emoji viewers in menu bar".
+   3. Click the **Input sources** tab. If the Romani keyboard does not appear in the list on the left, click the **+** button at the lower-left and select "Romany (Latin)" from the list of languages on the left, then click **"Add".**
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo
 
+
+**************
 ## Built With
 
 * [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) - Windows Keyboard Layout
