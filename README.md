@@ -1,8 +1,8 @@
-```
+<!---
 <p>
   <img src="images/logo.png" width="100" height="100" align="right" />
 </p>
-```
+--->
 *Read this in other languages: [English](README.md), [Rromani](README.rom.md), [Română](README.ro.md).*
 
 This project provides custom International Standard Romani keyboard layouts for Windows and MacOS systems, allowing easy access to the following special characters: 
