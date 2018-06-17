@@ -1,6 +1,4 @@
 theme: jekyll-theme-slate
 title: Romani Keyboard (IRU Standard)
 description: A free IRU standard Romani keyboard layout for Windows and MacOSX
-show_downloads: false
-url: "http://rromanichib.github.io"
-baseurl: ""
+show_downloads: true
