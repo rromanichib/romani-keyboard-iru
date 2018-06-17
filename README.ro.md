@@ -19,37 +19,34 @@ Aceste instrucțiuni vă vor ajuta să instalați aranjament de tastatură pe co
 
 - [Manual de instalare pentru Windows](#instalare-pentru-windows)
 - [Manual de instalare pentru MacOS](#instalare-pentru-macos)
-- [Ghid de referință pentru tastatura](#keyboard-reference-guide)
+- [Ghid de referință pentru tastatura](#ghid-de-referințe)
 
 # Instalare pentru Windows
 
-1. Download the Windows installer [**here**.](Romani_IRU_Windows.zip) Open the .ZIP file and double-click on the installer named **"Install_Rromani_Keyboard_IRU.exe"**.
+1. Descărcați programul de instalare pentru Windows [**aici**.](Romani_IRU_Windows.zip). Deschideți fișierul .ZIP și faceți dublu click pe programul de instalare **"Install_Rromani_Keyboard_IRU.exe"**.
 
 <p>
   <img src="images/language_bar.png" align="right" />
 </p>
 
-2. The new keyboard layout should now appear in the list of languages in the language bar (in the taskbar) as "OL Rromani" (in Windows 7) or "ROM Rromani" (in Windows 8 or newer). If you don't see the Language bar, right-click the taskbar, point to **Toolbars,** and then click **Language bar.**
+2. Noul aranjament de tastatură ar trebui să apară acum în lista de limbi din bara lingvistică (în bara de activități) ca "OL Rromani" (Windows 7) sau "ROM Rromani" (Windows 8 sau mai nou). Dacă nu vedeți bara lingvistică, faceți click dreapta pe bara de jos, apoi alegeți **Toolbars,** iar acolo bifezi **Bara lingvistică**.
+
+*NOTĂ: Este posibil că tastatura rromani să nu apară în lista de limbi din fila "Tastaturi și limbi" din Panoul de control din Windows. Aceasta este o problemă cunoscută și nu afectează funcționalitatea aspectului tastaturii.*
 
 
-*NOTE: It is possible that the Romani keyboard will not appear in the list of languages in the Windows Control Panel 
-"Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.*
+## Rromani Locale pentru Windows
+Windows utilizează setările numite "Locale" pentru a determina modul în care datele și numerele sunt afișate pe computer. Pentru a instala o localizare a limbii rromani pentru Windows:
 
-
-## Windows Romani Custom Locale
-Windows uses settings called "Locales" to determine how dates and numbers are displayed on your computer. To install a Romani language locale for Windows:
-1. Download the install package [**here**.](Romani_IRU_Windows.zip) 
-2. Open the .ZIP file and double-click on the installer named **"Install_Locale_Rromani_IRU.msi"**. 
-3. Once the installer has finished, click the open the **Control Panel** and click the **Clock, Language, and Region** icon, then
-click the **Regional and Language** icon. On the **Formats** tab, select **Rromani** from the pull-down menu for "Format".
+1. Descărcați pachetul de instalare [**aici**.](Romani_IRU_Windows.zip).
+2. Deschideți fișierul .ZIP și faceți dublu click pe programul de instalare **"Install_Locale_Rromani_IRU.msi".**
+3. După terminarea instalării, faceți click pe deschiderea panoului de control și faceți click pe pictograma **Ceas, limbă și regiune,** apoi faceți click pe pictograma **Regiune și limbă.** În fila **Formate,** selectați **Rromani (International)** din meniul derulant pentru "Format".
 
 <p>
   <img src="images/locale.png" align="center" />
 </p>
 
-## Windows Un-installation
-
-To remove the Romani keyboard or custom locale, open the **Control Panel,** click on **Programs and features**, then select **"Romani - IRU Standard"** (for the keyboard layout) or **"Custome Locale rom-RO"** (for the locale).
+## Dezinstalare pentru Windows
+Pentru a elimina tastatura rromani sau Locale pentru Windows, deschideți **Panoul de control,** faceți clic pe **Programe și Caracteristici,** apoi selectați **"Romani - IRU Standard"** (pentru tastatura) sau **"Custome Locale rom-RO"** (pentru Locale).
 
 <p>
   <img src="images/uninstall.jpg" align="center" />
@@ -60,27 +57,26 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 
 # Instalare pentru MacOS
-1. Download the MacOS installer disk image [**here**.](Romani_IRU_Mac.dmg) and double-click the .dmg file to open it.
+1. Descărcați imaginea discului de instalare MacOS [**aici**](Romani_IRU_Mac.dmg) și faceți dublu clic pe fișierul .dmg pentru al deschide.
 
 <p>
   <img src="images/macos_input.png" align="right" />
 </p>
 
-2. Drag "Romani - IRU Standard.bundle" to the folder on the left. "Rromani - IRU Standard" should now appear in the list of input sources at the top right of your screen. If it does not appear, or you do not see the input sources list, follow these directions:
-   1. Choose the **Apple menu** > go to **System Preferences,** and then click the **Keyboard** preference pane.
-   2. Click on the **Keyboard** tab and then select "Show keyboard and emoji viewers in menu bar".
-   3. Click the **Input sources** tab. If the Romani keyboard does not appear in the list on the left, click the **+** button at the lower-left and select "Romany (Latin)" from the list of languages on the left, then click **"Add".**
+2. Trageți "Romani - IRU Standard.bundle" în dosarul din stânga. "Rromani - Standard IRU" ar trebui să apară acum în lista surselor de intrare din partea dreaptă sus a ecranului. Dacă nu apare sau dacă nu vedeți lista surselor de intrare, urmați aceste instrucțiuni:
+   1. Alegeți meniul **Apple** > mergeți la **Preferințe sistem,** apoi faceți click pe panoul de preferințe **Tastatură.**
+   2. Faceți click pe fila **Tastatură** și apoi selectați "Afișați telespectatorii și vizualizatorii emoji din bara de meniu".
+   3. Faceți click pe fila **Surse de intrare**. Dacă tastatura rromani nu apare în lista din stânga, faceți click pe butonul **+** din partea stângă jos și selectați "Romany (Latin)" din lista limbilor din stânga, apoi faceți clic pe **"Adăugați".**
 
 
+# Ghid de referințe
 
-# Keyboard Reference Guide
+- Descărcați PDF-ul de referință pentru tastatura Windows [**aici**.](romani-keyboard-win.pdf) 
+- Descărcați PDF-ul de referință pentru tastatura MacOS [**here**.](romani-keyboard-mac.pdf) 
 
-- Download the Windows keyboard reference PDF [**here**.](romani-keyboard-win.pdf) 
-- Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf) 
+### Tastarea caracterelor speciale
 
-### Typing special characters
-
-| Character | Windows | Mac  |
+| Caracter | Windows | Mac  |
 |----|----|----|
 | ç | ç key | ç key |
 | θ | θ key | θ key |
@@ -102,22 +98,19 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 
 **************
-## Built With
+## Construit cu
 
 * [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) - Windows Keyboard Layout
 * [Microsoft Locale Builder](https://www.microsoft.com/en-us/download/details.aspx?id=41158) - Windows Custom Locale
 * [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Mac OSX Keyboard Layout
 
-## Authors
+## Autori
 
-* **Shaun Williams** - *Concept, creation* - Blog: [Beyond Karpaty](https://www.mutiny.net)
+* **Shaun Williams** - *Concept, creație* - Blog: [Beyond Karpaty](https://www.mutiny.net)
 
-* **Ionel Cordovan** - *Design, consultation, testing*
+* **Ionel Cordovan** - *Proiectare, consultare, testare*
 
-* **George Sarău** - *Consultation, testing* - Website: [Minority Division, Romanian Ministry of Education](https://www.edu.ro/echipa%20minoritati)
+* **George Sarău** - *Consultare, testare* - Website: [Minority Division, Romanian Ministry of Education](https://www.edu.ro/echipa%20minoritati)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+## Licență
+Acest proiect este licențiat sub licența GNU General Public v3.0 - pentru detalii, consultați fișierul [LICENSE.md](LICENSE.md).
