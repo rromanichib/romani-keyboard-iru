@@ -24,7 +24,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 1. Download the Windows installer [**here**.](Romani_IRU_Windows.zip) Open the .ZIP file and double-click on the installer named **"Install_Rromani_Keyboard_IRU.exe"**.
 
 <p>
-  <img src="images/language_bar.png" width="100" height="100" align="right" />
+  <img src="images/language_bar.png" align="right" />
 </p>
 2. The new keyboard layout should now appear in the list of languages in the language bar (in the taskbar) as "OL Rromani" (in Windows 7) or "ROM Rromani" (in Windows 8 or newer). If you don't see the Language bar, right-click the taskbar, point to **Toolbars,** and then click **Language bar.**
 
