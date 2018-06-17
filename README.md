@@ -19,7 +19,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 - [MacOSX installation instructions](#macosx-installation)
 
 
-### Windows Installation
+## Windows Installation
 
 1. Download the Windows installer [**here**.](Romani_IRU_Windows.zip) Open the .ZIP file and double-click on the installer named **"Install_Rromani_Keyboard_IRU.exe"**.
 
@@ -32,7 +32,19 @@ These instructions will help you install the keyboard layout on your computer. Y
 *NOTE: It is possible that the Romani keyboard will not appear in the list of languages in the Windows Control Panel 
 "Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.*
 
-## Windows Un-installation
+
+### Windows Romani Custom Locale
+Windows uses settings called "Locales" to determine how dates and numbers are displayed on your computer. To install a Romani language locale for Windows:
+1. Download the install package [**here**.](Romani_IRU_Windows.zip) 
+2. Open the .ZIP file and double-click on the installer named **"Install_Locale_Rromani_IRU.msi"**. 
+3. Once the installer has finished, click the open the **Control Panel** and click the **Clock, Language, and Region** icon, then
+click the **Regional and Language** icon. On the **Formats** tab, select **Rromani** from the pull-down menu for "Format".
+
+<p>
+  <img src="images/locale.png" align="center" />
+</p>
+
+### Windows Un-installation
 
 To remove the Romani keyboard or custom locale, open the **Control Panel,** click on **Programs and features**, then select **"Romani - IRU Standard"** (for the keyboard layout) or **"Custome Locale rom-RO"** (for the locale).
 
@@ -40,7 +52,9 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
   <img src="images/uninstall.jpg" align="center" />
 </p>
 
-### MacOSX Installation
+
+
+## MacOSX Installation
 
 A step by step series of examples that tell you how to get a development env running
 
