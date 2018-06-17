@@ -21,8 +21,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 
 ### Windows Installation
 
-A step by step series of examples that tell you how to get a development env running
-
+1. Download the Windows installer [**here**.](/Install_Rromani_Keyboard_IRU.zip) Open the .ZIP file and double-click on the installer named **"Install_Rromani_Keyboard_IRU.exe"**
 Say what the step will be
 
 ```
