@@ -29,18 +29,17 @@ These instructions will help you install the keyboard layout on your computer. Y
 
 2. The new keyboard layout should now appear in the list of languages in the language bar (in the taskbar) as "OL Rromani" (in Windows 7) or "ROM Rromani" (in Windows 8 or newer). If you don't see the Language bar, right-click the taskbar, point to **Toolbars,** and then click **Language bar.**
 
-
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+NOTE: It is possible that the Romani keyboard will not appear in the list of languages in the Windows Control Panel 
+"Keyboards and Languages" tab. This is a known issue and does not impair the functionality of the keyboard layout.
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+<p>
+  <img src="images/uninstall.png" align="right" />
+</p>
+## Windows Un-installation
+
+To remove the Romani keyboard or custom locale, open the **Control Panel,** click on **Programs and features**, then select **"Romani - IRU Standard"** (for the keyboard layout) or **"Custome Locale rom-RO"** (for the locale).
 
 
 ### MacOSX Installation
