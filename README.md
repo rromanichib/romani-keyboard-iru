@@ -26,6 +26,7 @@ These instructions will help you install the keyboard layout on your computer. Y
 <p>
   <img src="images/language_bar.png" align="right" />
 </p>
+
 2. The new keyboard layout should now appear in the list of languages in the language bar (in the taskbar) as "OL Rromani" (in Windows 7) or "ROM Rromani" (in Windows 8 or newer). If you don't see the Language bar, right-click the taskbar, point to **Toolbars,** and then click **Language bar.**
 
 
