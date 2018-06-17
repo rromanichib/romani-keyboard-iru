@@ -75,9 +75,8 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 # Keyboard Reference Guide
 
-Download the Windows keyboard reference PDF [**here**.](romani-keyboard-win.pdf) 
-
-Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf) 
+- Download the Windows keyboard reference PDF [**here**.](romani-keyboard-win.pdf) 
+- Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf) 
 
 ### Typing special characters
 
