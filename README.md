@@ -91,7 +91,6 @@ Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf)
 | ǐ | AltGr + i | Option + i |
 | ǒ | AltGr + o | Option + o |
 | ǔ | AltGr + u | Option + u |
-
 | ś | ś key | ś key |
 | ć | ć key | ć key | 
 | ź | AltGr + z | Option + z |
