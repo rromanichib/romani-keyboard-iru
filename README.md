@@ -79,12 +79,13 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 - Download the MacOS keyboard reference PDF [**here**.](romani-keyboard-mac.pdf) 
 
 ### Typing special characters
+(English Keyboard)
 
 | Character | Windows | Mac  |
 |----|----|----|
 | ç | ``  \ `` key | ``  \  `` key |
-| θ | ``  ]  ``key | ``  ]  `` key |
-| ʒ | ``  [  ``key | ``  [  `` key |
+| θ | ``  ]  `` key | ``  ]  `` key |
+| ʒ | ``  [  `` key | ``  [  `` key |
 | ǎ | AltGr + a | Option + a |
 | ě | AltGr + e | Option + e |
 | ǐ | AltGr + i | Option + i |
