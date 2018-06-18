@@ -75,25 +75,26 @@ Pentru a elimina tastatura rromani sau Locale pentru Windows, deschideți **Pano
 - Descărcați PDF-ul de referință pentru tastatura MacOS [**here**.](romani-keyboard-mac.pdf) 
 
 ### Tastarea caracterelor speciale
+(tastatură românească)
 
 | Caracter | Windows | Mac  |
 |----|----|----|
-| ç | ç key | ç key |
-| θ | θ key | θ key |
-| ʒ | ʒ key | ʒ key |
+| ʒ | ``  ă  `` tasta | ``  ă  `` tasta |
+| θ | ``  î  `` tasta | ``  î  `` tasta |
+| ç | ``  â `` tasta | ``  â  `` tasta |
 | ǎ | AltGr + a | Option + a |
 | ě | AltGr + e | Option + e |
 | ǐ | AltGr + i | Option + i |
 | ǒ | AltGr + o | Option + o |
 | ǔ | AltGr + u | Option + u |
-| ś | ś key | ś key |
-| ć | ć key | ć key | 
+| ś | ``  ș  `` tasta | ``  ș  `` tasta |
+| ć | ``  ț  `` tasta | ``  ț  `` tasta | 
 | ź | AltGr + z | Option + z |
-| ä | AltGr + 2, then a | Option + 2, then a |
-| ë | AltGr + 2, then e | Option + 2, then e |
-| ï | AltGr + 2, then i | Option + 2, then i |
-| ö | AltGr + 2, then o | Option + 2, then o |
-| ü | AltGr + 2, then u | Option + 2, then u |
+| ä | AltGr + 2, apoi a | Option + 2, apoi a |
+| ë | AltGr + 2, apoi e | Option + 2, apoi e |
+| ï | AltGr + 2, apoi i | Option + 2, apoi i |
+| ö | AltGr + 2, apoi o | Option + 2, apoi o |
+| ü | AltGr + 2, apoi u | Option + 2, apoi u |
 
 
 
