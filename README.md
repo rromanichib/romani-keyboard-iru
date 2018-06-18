@@ -83,9 +83,9 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 | Character | Windows | Mac  |
 |----|----|----|
-| ç | ``  \ `` key | ``  \  `` key |
-| θ | ``  ]  `` key | ``  ]  `` key |
 | ʒ | ``  [  `` key | ``  [  `` key |
+| θ | ``  ]  `` key | ``  ]  `` key |
+| ç | ``  \ `` key | ``  \  `` key |
 | ǎ | AltGr + a | Option + a |
 | ě | AltGr + e | Option + e |
 | ǐ | AltGr + i | Option + i |
