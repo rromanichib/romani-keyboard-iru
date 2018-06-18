@@ -82,16 +82,16 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 
 | Character | Windows | Mac  |
 |----|----|----|
-| ç | \ key | \ key |
-| θ | `` ] ``key | `` ] ``key |
-| ʒ | `` [ ``key | `` [ ``key |
+| ç | ``  \ `` key | ``  \  `` key |
+| θ | ``  ]  ``key | ``  ]  `` key |
+| ʒ | ``  [  ``key | ``  [  `` key |
 | ǎ | AltGr + a | Option + a |
 | ě | AltGr + e | Option + e |
 | ǐ | AltGr + i | Option + i |
 | ǒ | AltGr + o | Option + o |
 | ǔ | AltGr + u | Option + u |
-| ś | ; key | ; key |
-| ć | ' key | ' key | 
+| ś | ``  ;  `` key | ``  ;  `` key |
+| ć | ``  '  `` key | ``  '  `` key | 
 | ź | AltGr + z | Option + z |
 | ä | AltGr + 2, then a | Option + 2, then a |
 | ë | AltGr + 2, then e | Option + 2, then e |
