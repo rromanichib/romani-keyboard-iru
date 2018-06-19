@@ -6,3 +6,5 @@ logo: /images/logo.png
 github:
   win_url: Romani_IRU_Windows.zip
   mac_url: Romani_IRU_Mac.dmg
+plugins:
+  - jekyll-seo-tag
