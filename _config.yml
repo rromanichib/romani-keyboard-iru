@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: Romani Keyboard (IRU Standard)
-description: A free IRU standard Romani keyboard layout for Windows and MacOS
+description: o rromano kejbord (IRU universàlo) / tastatura rromani (IRU standard-internațional). A free IRU standard Romani keyboard layout for Windows and MacOS
+lang: en, ro, rom
+robots: index, follow
+keywords: romani, romany, rromani, keyboard layout, aranjament de tastatura
+
 show_downloads: true
 logo: /images/logo.png
 github:
