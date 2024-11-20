@@ -99,7 +99,11 @@ To remove the Romani keyboard or custom locale, open the **Control Panel,** clic
 | ï | AltGr + 2, then i | Option + 2, then i |
 | ö | AltGr + 2, then o | Option + 2, then o |
 | ü | AltGr + 2, then u | Option + 2, then u |
-
+| à | AltGr + `, then a | Option + `, then a |
+| è | AltGr + `, then e | Option + `, then e |
+| ì | AltGr + `, then i | Option + `, then i |
+| ò | AltGr + `, then o | Option + `, then o |
+| ù | AltGr + `, then u | Option + `, then u |
 
 
 **************
