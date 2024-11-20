@@ -94,7 +94,11 @@ Pentru a elimina aranjamentul de tastatură rromani sau Locale pentru Windows, d
 | ï | AltGr + 2, apoi i | Option + 2, apoi i |
 | ö | AltGr + 2, apoi o | Option + 2, apoi o |
 | ü | AltGr + 2, apoi u | Option + 2, apoi u |
-
+| à | AltGr + `, apoi a | Option + `, apoi a |
+| è | AltGr + `, apoi e | Option + `, apoi e |
+| ì | AltGr + `, apoi i | Option + `, apoi i |
+| ò | AltGr + `, apoi o | Option + `, apoi o |
+| ù | AltGr + `, apoi u | Option + `, apoi u |
 
 
 **************
